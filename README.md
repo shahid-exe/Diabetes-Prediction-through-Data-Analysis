@@ -110,4 +110,3 @@ Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 
 Open a pull request.
-.
